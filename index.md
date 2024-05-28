@@ -1,94 +1,60 @@
 
-![Gunbird_logo](http://vignette1.wikia.nocookie.net/fictionalcrossover/images/7/73/Gunbird_logo.png/revision/latest?cb=20150407124404)
+
 
 ## Our project 
 
-We're going to replicate the 1994 Gunbird game arcade version developed and published by Psyko as a tribute to the game. This project has been done by four catalan students of CITM - UPC (Terrasa, Spain). 
+This is a tribute to Pac-Man, the classic game from 1980. This project is done by students from CITM.
 
 ## About the game
 
-Gunbird was released in 1994 for arcades and belongs to the vertically scrolling shoot'em up genre and has both single-player and two-player cooperative modes.
-
-The game allows you to choose between five different characters, each one with their own skills and powers. The objective of the game is to obtain the four shards  of a magic mirror in order to get a wish once they are all assembled. They will fight against The Trump (a group of three pirates) for the fragments of the mirror.
-
-There are two loop with seven levels each. The four shards of the mirror are obtained in the first four levels (which are randomly selected) and the wish is made once the player has completed three extra levels. In the end of each level you’ll have one boss to beat and a piece of the main plot is revealed. But in the second loop the difficult is increased and the story plot is removed.
+Pac-Man is a maze game developed for arcades by Namco and released in Japan on May 21, 1980. The game consists in the player controlling Pac-Man through a maze with the goal of consuming all the dots scattered across the maze while avoiding four ghost enemies attempting to hunt the player down. Once all the dots are consumed, the player advances to the following level, increasing the difficulty of the game until Pac-Man loses three lives (losing one each time the player is caught by a ghost) causing the game to end.
 
 ## Gameplay
 
-<iframe width="740" height="590" src="https://www.youtube.com/embed/yBFzOEv0snY" frameborder="0" allowfullscreen></iframe>
+<iframe width="740" height="590" src="https://www.youtube.com/watch?v=tNBN89cQTlE" frameborder="0" allowfullscreen></iframe>
 
 ## Controls
 ~~~~~~~~~~~~~~~
 
-Keyboard Player 1 controls:
-- UP: W key
-- LEFT / MOVE SELECTOR LEFT: A key
-- RIGHT / MOVE SELECTOR RIGHT:: D key
-- DOWN: S key
-- BASIC SHOT: SPACE key
-- SELECT CHARACTER: SPACE key 
-- BOMB: B key
-
-Keyboard Player 2 controls:
-- UP: UP_ARROW key
-- LEFT / MOVE SELECTOR LEFT: LEFT_ARROW key
-- RIGHT / MOVE SELECTOR RIGHT:: RIGHT_ARROW key
-- DOWN: DOWN_ARROW key
-- BASIC SHOT: 1 key (NUMPAD)
-- JOIN THE GAME: 2 key (NUMPAD)
-- JOIN THE GAME (in-game): 1 key (NUMPAD)
-- SELECT CHARACTER: 1 key (NUMPAD)
-- BOMB: 2 key (NUMPAD)
+Keyboard Player controls:
+- UP: UP key
+- MOVE LEFT: LEFT key
+- MOVE RIGHT: RIGHT key
+- DOWN: DOWN key
 
 General controls:
-- SKIP SCREEN: SPACE key
+- START: SPACE key
 - EXIT GAME: ESC key
 
-Gamepad:
-
-- MOVE: JOYSTIC AND D-PAD
-- SHOOT AND SELECT CHARACTER: A 
-- SKIP SCREEN: A
-- BOMB: B
-- START GAME: START
-- EXIT GAME: BACK
 
 
 ~~~~~~~~~~~~~~~
 
-# FrozenSloth Studios - Our team
+# Pixel Pioneers - Our team
 
 ![](frozenSlothStudios_team.JPG)
 
 ## Team members
 
-_Altimira Bernat, Martí's responsability and Github account_
+_Lara Guevara's responsability and Github account_
 
-* QA
-* [Github account](https://github.com/martimab)
+* QA and code
+* [Github account]([https://github.com/LaraGuevara])
 
-_García Subirana, Guillermo's responsability and Github account_
+_Maria Besora's responsability and Github account_
 
-* Code
-* [Github account](https://github.com/Wilhelman)
-
-_Masó Garcia, Víctor's responsability and Github account_
-
-* Management
-* [Github account](https://github.com/nintervik)
-
-_Termens Vázquez, Ariadna's responsability and Github account_
-
-* Art/Design
-* [Github account](https://github.com/AriTeva)
-
-
-
-### For more information see our wiki page [HERE](https://github.com/Wilhelman/Gunbird_P01/wiki)
-### Download the last version of the game [HERE](https://github.com/Wilhelman/Gunbird_P01/releases/tag/v1.0)
-### Check our Github repository [HERE](https://github.com/Wilhelman/Gunbird_P01)
+* Code and art
+* [Github account]([https://github.com/mariabeo])
 
 
 
 
-#### _Tribute by FrozenSloth Studios_
+
+### For more information see our wiki page [HERE](https://github.com/LaraGuevara/Pac-Man/wiki)
+### Download the last version of the game [HERE](https://github.com/LaraGuevara/Pac-Man/releases/download/Release/PixelPioneers_PacMan_v0.5.zip)
+### Check our Github repository [HERE](https://github.com/LaraGuevara/Pac-Man)
+
+
+
+
+#### _Tribute by Pixel Pioneers_
